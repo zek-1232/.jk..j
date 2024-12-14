@@ -1,0 +1,14 @@
+aiohappyeyeballs
+aiohttp
+aiosignal
+asyncio
+attrs
+discord
+discord.py
+disnake
+frozenlist
+idna
+multidict
+pip
+propcache
+yarl
